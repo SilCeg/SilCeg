@@ -1,16 +1,12 @@
-## Hi there 👋
+Olá, Sou o Gustavo 👋
 
-<!--
-**SilCeg/SilCeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou em busca de uma oportunidade de emprego como desenvolvedor.
+- 🌱 Estou no 3º Módulo de Desenvolvimento de Sistemas na Etec Guarulhos.
+- 📫 Contate-me através do email: gustavocs.contato@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/silceg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=silceg&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/silceg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silceg&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
